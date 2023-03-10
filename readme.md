@@ -38,7 +38,7 @@ O Feelings Tracker é um app para ajudar pessoas com depressão a rastrear os se
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/Ylu94ydmq0uv1cut0KLILd/Feelings-Tracker-(Community)?t=jLp2oDJ4o1cKzO5N-6). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
 
 ## :memo: Licença
 
