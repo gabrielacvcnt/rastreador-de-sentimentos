@@ -1,4 +1,4 @@
-<h1 align="center"> Habits </h1>
+<h1 align="center"> Feelings Tracker </h1>
 
 <p align="center">
 NLW é um evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
@@ -32,7 +32,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Habits é um app para ajudar a rastrear os hábitos.
+O Feelings Tracker é um app para ajudar pessoas com depressão a rastrear os seus sentimentos diários e relacioná-los a alguns de seus hábitos.
 
 - [Visite o projeto online](https://gabrielacvcnt.github.io/nlw-setup)
 
